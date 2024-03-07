@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Devlopment
 - 🌱 I’m currently B-tech Computer Science Student
 - 💞️ I’m looking to collaborate on Bacnkend Projects like building database,server,api etc.
-- 
+  
 
 
 <!---
