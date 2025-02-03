@@ -1,33 +1,15 @@
 
-<h1 align="center">Hi 👋, I'm Saurabh Singh Rathore</h1>
-<h3 align="center">A passionate Full-Stack Web development from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabhthakur_023) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Saurabhsingh609?t=MSFQ4c8U0JHwnWp9GgXCoA&s=08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurabhthakur02310@gmail.com) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhthakur023&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhthakur023" /> </p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Saurabhthakur023&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saurabhthakur023&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhthakur023&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/https://x.com/saurabhsingh609" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/saurabhsingh609?logo=twitter&style=for-the-badge" alt="https://x.com/saurabhsingh609" /></a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Saurabhthakur023&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **Mern Stack**
-
-- 👯 I’m looking to collaborate on **Mern Stack Project**
-
-- 💬 Ask me about **react,C/C++, JavaScript**
-
-- 📫 How to reach me **saurabhthakur02310@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/saurabhsingh609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/saurabhsingh609" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-singh-rathore-359968221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-singh-rathore-359968221" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/_saurabhsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/_saurabhsingh/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/saurabhgfsb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/saurabhgfsb/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhthakur023&show_icons=true&locale=en&layout=compact" alt="saurabhthakur023" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhthakur023&show_icons=true&locale=en" alt="saurabhthakur023" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhthakur023&" alt="saurabhthakur023" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
