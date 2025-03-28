@@ -1,15 +1,39 @@
+## Hi there! 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabhthakur_023) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Saurabhsingh609?t=MSFQ4c8U0JHwnWp9GgXCoA&s=08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurabhthakur02310@gmail.com) 
+I'm **Saurabh Singh Rathore**, a passionate developer from **Bareilly Uttarpradesh**. I love creating impactful web applications and exploring new technologies.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saurabhthakur023&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saurabhthakur023&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhthakur023&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=Saurabhthakur023&icon=0&color=0)](https://visitcount.itsvg.in)
+I am a software developer with a keen interest in web development. I enjoy working on innovative projects that challenge my skills and allow me to learn new technologies.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Skills & Technologies
+
+html,css,react,nodejs,express,flask,mongodb,git,tailwind,bootstrap
+
+## Top Projects
+
+- [Web-Developement](https://github.com/Saurabhthakur023/Web-Developement): A collection of web development projects. 🌟 0 stars, Language: HTML
+- [Crime-prediction-and-prevention](https://github.com/Saurabhthakur023/Crime-prediction-and-prevention): A Jupyter Notebook project aimed at predicting and preventing crime. 🌟 0 stars, Language: Jupyter Notebook
+- [Password-generator](https://github.com/Saurabhthakur023/Password-generator): A tool for generating secure passwords. 🌟 1 star, Language: JavaScript
+- [Foodie-Hunter](https://github.com/Saurabhthakur023/Foodie-Hunter): An application to find and explore food options. 🌟 0 stars, Language: JavaScript
+- [TO-DO](https://github.com/Saurabhthakur023/TO-DO): A simple To-Do application to manage tasks. 🌟 0 stars, Language: JavaScript
+
+## GitHub Stats
+
+📊 **Public Repositories**: 11  
+👥 **Followers**: 1  
+🔄 **Following**: 3  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabhthakur023&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Created repository **Html-Css** on March 23, 2025.
+- Created a branch **main** on March 23, 2025.
+
+## Latest Blog Posts
+
+Currently, there are no blog posts available. Stay tuned for updates!
+
+## Connect with Me
+
+{}
