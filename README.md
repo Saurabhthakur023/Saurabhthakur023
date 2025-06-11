@@ -1,43 +1,54 @@
+<h2 align="left">Hi 👋! My name is Saurabh Singh Rathore and I'm a Full-stack developer.</h2>
 
-## Hi there! 👋
+###
 
-I'm Saurabh Singh Rathore, a passionate developer with a knack for creating innovative solutions. Welcome to my GitHub profile!
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## About Me
+###
 
-I'm based in Bareilly and I love to explore the world of technology. I'm continuously learning and growing my skills to contribute to impactful projects.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
 
-## Skills & Technologies
+###
 
-html,css,react,nodejs,django,mongodb,git,github,bootstrap,express,flask,aws
+<div align="left">
+  <a href="https://www.instagram.com/saurabh_thakur023?igsh=amY5aDJmOGJyNGI1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/saurabh023" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="saurabhthakur02310@gmail.comProfile image saurabhthakur02310@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="http://t.me/thakursaurabh_1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
 
-## Top Projects
-
-- [Web-Developement](https://github.com/Saurabhthakur023/Web-Developement): A collection of web development projects. ⭐ 0
-- [Crime-prediction-and-prevention](https://github.com/Saurabhthakur023/Crime-prediction-and-prevention): A project focused on predicting and preventing crime using data analysis. ⭐ 0
-- [Shopping-trends](https://github.com/Saurabhthakur023/Shopping-trends): An analysis of shopping trends based on user data. ⭐ 0
-- [Password-generator](https://github.com/Saurabhthakur023/Password-generator): A simple tool to generate secure passwords. ⭐ 1
-- [TO-DO](https://github.com/Saurabhthakur023/TO-DO): A task management application to help you keep track of your to-do lists. ⭐ 0
-
-## GitHub Stats
-
-🔹 **Public Repositories:** 11  
-🔹 **Followers:** 1  
-🔹 **Following:** 3  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabhthakur023&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Created a new repository: [Html-Css](https://github.com/Saurabhthakur023/Html-Css)  
-- Pushed updates to [Web-Developement](https://github.com/Saurabhthakur023/Web-Developement)  
-- Contributed to [Crime-prediction-and-prevention](https://github.com/Saurabhthakur023/Crime-prediction-and-prevention)  
-- Opened issues on various projects to enhance functionality.
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts. Check back later for updates!
-
-## Connect with Me
-
-{}
+###
