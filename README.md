@@ -19,7 +19,10 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/saurabh023" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/saurabh_thakur023?igsh=amY5aDJmOGJyNGI1" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabhthakur023&show_icons=true&locale=en" alt="Saurabhthakur023" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhthakur023&" alt="Saurabhthakur023" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurabhthakur023&show_icons=true&locale=en&layout=compact" alt="Saurabhthakur023" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saurabhthakur023" alt="Saurabhthakur023" /></a></p>
